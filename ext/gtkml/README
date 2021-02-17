@@ -1,0 +1,10 @@
+we need to create :
+  PHP-GTK( binding gtk+, usable by php-cli)
+  GTKML( the zend Gtk builder, usable by php-cli in certain condition)
+  php-gui( program, than parse an xml.php)
+
+
+php_gtk_window_new();
+php_gtk_*_new();
+
+php_gtkml_*_new();
